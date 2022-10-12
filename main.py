@@ -5,7 +5,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot(');
+bot = telebot.TeleBot('');
 adminId = '988577610';
 testerID = '44055775';
 
